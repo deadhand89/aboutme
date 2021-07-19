@@ -48,7 +48,7 @@ body{
 .full{
     width: 520px;
     max-width: calc(100vw - 10px);
-    background-color: hsla(0, 0%, 100%, .5);
+    background-color: rgba(181, 196, 177, 0.7);
     border-radius: 4px;
     box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
 }
